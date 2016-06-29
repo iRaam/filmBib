@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_replay_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_replay_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_replay_10_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_replay_10_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_black_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_grey600_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00013.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00013.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_drag_updown_grey_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_drag_updown_grey_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_circle_white_80dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_circle_white_80dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_googblue_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_googblue_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_forward_30_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_forward_30_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_black_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cast_white.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_cast_white.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_repeat_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_repeat_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00002.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00002.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00001.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00001.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_circle_grey_80dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_circle_grey_80dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_shuffle_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_shuffle_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00012.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00012.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00003.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00003.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00000.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00000.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_replay_30_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_replay_30_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00014.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00014.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_light.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_next_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_next_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_previous_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_previous_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00010.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00010.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00004.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00004.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_grey600_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_black_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_googblue_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_googblue_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_next_white_semi_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_next_white_semi_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_googblue_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_googblue_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_drag_updown_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_drag_updown_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00013.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00013.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00015.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00015.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_circle_white_64dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_circle_white_64dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_previous_white_semi_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_previous_white_semi_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_circle_grey_80dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_circle_grey_80dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_repeat_one_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_repeat_one_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00003.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00003.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_grey600_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00000.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00000.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_black_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_playlist_grey_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_playlist_grey_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_circle_white_64dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_circle_white_64dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_playlist_black_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_playlist_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00006.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00006.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00009.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00009.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_repeat_one_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_repeat_one_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_googblue_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_googblue_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_black_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00005.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00005.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_grey600_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_grey600_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00010.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00010.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00007.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00007.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_playlist_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_playlist_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_white_18dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_circle_white_80dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_circle_white_80dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_closed_caption_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_closed_caption_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_circle_grey_64dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_circle_grey_64dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00008.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00008.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00004.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00004.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00009.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00009.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00006.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00006.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_remove_circle_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_remove_circle_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_next_grey300_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_next_grey300_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_next_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_next_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00011.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00011.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_arrow_black_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_arrow_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00002.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00002.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_previous_grey600_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_previous_grey600_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00008.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00008.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00012.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00012.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_previous_grey300_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_previous_grey300_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00007.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00007.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00005.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00005.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_circle_white_80dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_circle_white_80dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_white_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_close_light.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_close_light.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_cast_grey.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_cast_grey.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00001.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00001.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_forward_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_forward_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_next_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_next_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_play_circle_grey_64dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_play_circle_grey_64dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_shuffle_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_shuffle_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_forward_10_white_48dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_forward_10_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00014.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00014.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00015.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_expand_00015.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00011.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\ic_collapse_00011.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_stop_black_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_stop_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_skip_previous_white_36dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_skip_previous_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_grey600_24dp.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxxhdpi\\ic_pause_grey600_24dp.png"
+    }
+]

@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_actionbar_menu" android:state_selected="true"/>
+    <item android:drawable="@color/ClickedViewBackground" android:state_pressed="true"/>
+    <item android:drawable="@drawable/ic_actionbar_menu" android:state_selected="false"/>
+
+</selector>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#555555"
+    android:clickable="true"
+    android:focusableInTouchMode="true" >
+
+    <RelativeLayout
+        android:id="@+id/HeaderLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#555555" >
+
+        <ImageButton
+            android:id="@+id/Back"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/ic_icon_back" />
+
+        <EditText
+            android:id="@+id/searchEdit"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="45dp"
+            android:layout_toRightOf="@id/Back"
+            android:background="@drawable/rounded_corner_bg"
+            android:paddingLeft="5dp"
+            android:imeOptions="actionSearch"
+            android:textColor="@color/black"
+            android:inputType="text"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/search"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/ic_search" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/searchList"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/HeaderLayout"
+        android:layout_margin="5dp"
+        android:background="#3B3B3B"
+        android:divider="#555555"
+        android:dividerHeight="5dp" >
+    </ListView>
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/noDataFound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Ingen film funnet"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:visibility="visible" />
+
+</RelativeLayout>

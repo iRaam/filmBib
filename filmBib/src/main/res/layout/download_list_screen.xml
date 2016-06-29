@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3b3b3b"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/ActionBar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#3b3b3b" >
+
+        <ImageButton
+            android:id="@+id/Back"
+            android:layout_width="35dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:background="@drawable/ic_icon_back" />
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:maxLines="1"
+            android:text="Offline 48 timer"
+            android:textColor="#32A3BF"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+    </RelativeLayout>
+
+    <ListView 
+        android:layout_below="@id/ActionBar"
+        android:id="@+id/downloadList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#3b3b3b"
+        android:dividerHeight="5dp"
+        >
+        
+    </ListView>
+    
+      <TextView
+        android:id="@+id/noDownloadFound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Ingen film funnet"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:visibility="visible" />
+</RelativeLayout>
