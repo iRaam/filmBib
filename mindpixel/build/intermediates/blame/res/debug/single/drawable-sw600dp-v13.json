@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-sw600dp\\ic_mini_controller_upcoming_stop.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-sw600dp\\ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_mini_controller_upcoming_play.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-sw600dp\\ic_mini_controller_upcoming_play.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_mini_controller_upcoming_stop.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-sw600dp\\ic_mini_controller_upcoming_stop.xml"
+    }
+]

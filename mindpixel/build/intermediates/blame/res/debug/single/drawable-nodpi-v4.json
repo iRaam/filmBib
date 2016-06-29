@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\album_art_placeholder_large.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mini_controller_img_placeholder.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\mini_controller_img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\album_art_placeholder_large.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\album_art_placeholder_large.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\album_art_placeholder.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\album_art_placeholder.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\mini_controller_img_placeholder.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\mini_controller_img_placeholder.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\album_art_placeholder.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-nodpi\\album_art_placeholder.png"
+    }
+]

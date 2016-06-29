@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\player.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\player.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\cast_player_menu.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\menu\\cast_player_menu.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\queue_menu.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\queue_menu.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\queue_menu.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\queue_menu.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\detached_popup_add_to_queue.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\detached_popup_add_to_queue.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\popup_add_to_queue.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\popup_add_to_queue.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\player.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\player.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\popup_add_to_queue.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\popup_add_to_queue.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\browse.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\browse.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\detached_popup_add_to_queue.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\detached_popup_add_to_queue.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\menu\\cast_player_menu.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\menu\\cast_player_menu.xml"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\menu\\browse.xml",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\src\\main\\res\\menu\\browse.xml"
+    }
+]

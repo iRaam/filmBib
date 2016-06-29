@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_content_remove.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_content_remove.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_action_notification.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_action_notification.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_action_notification.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_action_notification.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_content_remove.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_content_remove.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_action_democast.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\filmBib\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_action_democast.png"
+    },
+    {
+        "merged": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v11\\ic_stat_action_democast.png",
+        "source": "C:\\Eclipse\\filmbib\\StudioWorkSpace\\mindpixel\\build\\intermediates\\exploded-aar\\com.google.android.libraries.cast.companionlibrary\\ccl\\2.8.4\\res\\drawable-xxhdpi-v11\\ic_stat_action_democast.png"
+    }
+]

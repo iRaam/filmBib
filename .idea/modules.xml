@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StudioWorkSpace.iml" filepath="$PROJECT_DIR$/StudioWorkSpace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/filmBib/filmBib.iml" filepath="$PROJECT_DIR$/filmBib/filmBib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mindpixel/filmBib.iml" filepath="$PROJECT_DIR$/mindpixel/filmBib.iml" />
     </modules>
   </component>
 </project>

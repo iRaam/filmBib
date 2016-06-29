@@ -8,13 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/filmBib" />
+            <option value="$PROJECT_DIR$/mindpixel" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/filmBib" />
+            <option value="$PROJECT_DIR$/mindpixel" />
           </set>
         </option>
       </GradleProjectSettings>

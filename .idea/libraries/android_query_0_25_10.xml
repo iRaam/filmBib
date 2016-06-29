@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="android-query.0.25.10">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/filmBib/libs/android-query.0.25.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mindpixel/libs/android-query.0.25.10.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
